@@ -18,13 +18,8 @@
 
   ## &#x1f4c8; GitHub Stats
      
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aneebch)](https://git.io/streak-stats)
 
 <h4>Contribution graph :</h4> 
   
  ![snake gif](https://github.com/Aneebch/Aneebch/blob/output/github-contribution-grid-snake.gif)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+
